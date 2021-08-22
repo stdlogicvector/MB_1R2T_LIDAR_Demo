@@ -8,3 +8,6 @@ A quick Python Demo for the MB_1R2T LIDAR Module (available from [AliExpress](ht
 
 ## Example
 ![Example Output](/example.png)
+
+## Acknowledgement
+The package structure was taken from https://github.com/Vidicon/mb_1r2t_ros
